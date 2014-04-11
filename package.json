@@ -1,0 +1,24 @@
+{
+  "name": "pax-php",
+  "version": "0.1.0",
+  "description": "PAX php plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reekoheek/pax-php.git"
+  },
+  "keywords": [
+    "pax",
+    "plugin",
+    "php"
+  ],
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reekoheek/pax-php/issues"
+  },
+  "homepage": "https://github.com/reekoheek/pax-php"
+}
